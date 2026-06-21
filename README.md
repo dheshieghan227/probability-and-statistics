@@ -62,3 +62,9 @@ The analysis script (`Heart_Disease_Analysis.R`) implements four core statistica
 - **Ghadeer Mahmoud** (Matric ID: T23CS4008)
 
 **Lecturer**: Dr. Nor Haizan Bt Mohamed Radzi (Section 03)
+
+
+---
+
+## 💭 Course Reflection
+Applying statistical algorithms, distributions, and probability models to datasets here taught me how to find trends in noise. This is the bedrock of data analytics and feature engineering for machine learning pipelines.
